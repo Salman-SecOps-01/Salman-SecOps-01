@@ -84,7 +84,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Learning Path:<br>Networking -> Cybersecurity</h4>
+<h4 data-importer="text" align="left">Learning Path:</h4><br><p><i>Networking -> Cybersecurity</i></p>
 
 ###
 
